@@ -1,2 +1,2 @@
-you will need the assets from this folder:
-https://drive.google.com/drive/folders/1_dVxHVTJO_YtMAo9ia7wnja1XY0nImr5?usp=drive_link
+A first site!
+[persona-tutorial.pdf](https://github.com/user-attachments/files/27017818/persona-tutorial.pdf)
