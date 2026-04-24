@@ -441,7 +441,7 @@ export default function ResumePage({ src }) {
             <div className="resume-detail-top">
               <div className="resume-detail-top-index">01</div>
               <div className="resume-detail-top-title">EDUCATION LOG</div>
-              <div className="resume-detail-top-progress">7/5</div>
+              <div className="resume-detail-top-progress">3/4</div>
             </div>
 
             <div className="resume-detail-list">
@@ -457,9 +457,10 @@ export default function ResumePage({ src }) {
             <div className="resume-detail-bottom">
               <div className="resume-detail-bottom-title">DETAILS</div>
               <div className="resume-detail-bullets">
-                <div className="resume-detail-bullet">- Maintain progress across required classes and supporting work.</div>
-                <div className="resume-detail-bullet">- Track portfolio-ready projects tied to coursework and labs.</div>
-                <div className="resume-detail-bullet">- Keep materials prepared for internships, research, and review.</div>
+                <div className="resume-detail-bullet">- SLAM, MPC/MPPI, CAD, PCB NVH Optimization, Prototyping, next.js</div>
+                <div className="resume-detail-bullet">- Chinese culture, history, language</div>
+                <div className="resume-detail-bullet">- Ihya Ulum ud-Din, Captured Thoughts, Prophetic Dreams</div>
+                <div className="resume-detail-bullet">- Underactuated Robotics, Convex Optimization, Compliant Mechanisms, Multi-Physics Modeling, Tensegrity Machines</div>
               </div>
             </div>
           </div>
